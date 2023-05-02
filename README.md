@@ -27,13 +27,14 @@ Some of the plugins that I created were:
 - DungeonMaze: Manually created mazes with customizable traps and rewards.
   - [Dungeon Maze](https://github.com/john-grear/dungeon-maze)
 - EnderShift: Obsidian block layout that allowed you to teleport vertically and across far distances to other shift points in view.
-- Crates: General purpose crate plugin with GUI for easy customizing of crate drops.
-  - [Pandemonium Crates](https://github.com/john-grear/pandamonium-crates)
-- Parkour: General purpose parkour plugin with checkpoints and rewards.
-- Games: Customizable minigame plugin to allow for easy creation of new minigames, extending the base functionality of all minigames to future ones (timers, start/end, location allocation, win/loss count, etc.).
-  - [Pandemonium Games](https://github.com/john-grear/pandamonium-games)
+- Pandamonium Crates: General purpose crate plugin with GUI for easy customizing of crate drops.
+  - [Pandamonium Crates](https://github.com/john-grear/pandamonium-crates)
+- Pandamonium Parkour: General purpose parkour plugin with checkpoints and rewards.
+- Pandamonium Games: Customizable minigame plugin to allow for easy creation of new minigames, extending the base functionality of all minigames to future ones (timers, start/end, location allocation, win/loss count, etc.).
+  - [Pandamonium Games](https://github.com/john-grear/pandamonium-games)
 
 The plugins without links were never uploaded to github as I was just starting out in software development and was working alone.
+Also, my server was named Pandamonium and the theme was pandas... so that's why some of my plugins are named Pandamonium-Crates, etc.
 
 ### Dungeons of Doom App
 #### Kotlin / Android
