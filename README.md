@@ -21,7 +21,7 @@ I enjoy playing video games, cooking new foods, and posing theoretical questions
 ### Minecraft Plugins
 #### Java / Kotlin
 
-Minecraft was the gateway to my desire to learn programming. I started to learn the inner-machinations of the game and creating plugins a couple years before I started college at Wright State back in 2019. I took my knowledge from my classes and tried to apply it towards my Minecraft plugins that I displayed on my personal server that I ran. College eventually got in the way and I had to shutdown my server after a few years.
+Minecraft was the gateway to my desire to learn programming. I started to learn the inner-machinations of the game and created plugins a couple years before I started college at Wright State back in 2019. I took my knowledge from my classes and tried to apply it towards my Minecraft plugins that I displayed on my personal server that I ran. College eventually got in the way and I had to shutdown my server after a few years.
 
 Some of the plugins that I created were:
 - DungeonMaze: Manually created mazes with customizable traps and rewards.
