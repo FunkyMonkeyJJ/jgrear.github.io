@@ -54,7 +54,7 @@ When BGSU starts using it, it could be viewed on there site, but I do not own th
 
 - Phone Number: (937) 541-2303
 - Email: piquagrearj@gmail.com
-- LinkedIn: https://www.linkedin.com/in/john-grear/
+- LinkedIn: [John Grear](https://www.linkedin.com/in/john-grear/)
 - Discord: FunkyMonkeyJJ#0667
 
 Thank you for visiting my portfolio! I look forward to hearing from you.
